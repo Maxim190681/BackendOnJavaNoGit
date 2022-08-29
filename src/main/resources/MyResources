@@ -1,0 +1,8 @@
+apiKey =0c2b69a46e104aff95971647f858f158
+baseURL = https://api.spoonacular.com/
+RecipeURL = https://api.spoonacular.com/recipes/complexSearch
+hash = 1b59a223ad9d137f35a138401938d2d39ec14957
+username = userforapitests
+language = en
+shoplistURL = https://api.spoonacular.com/mealplanner/userforapitests/shopping-list/items/15678
+url=http://localhost:8189/market/api/v1/
